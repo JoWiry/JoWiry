@@ -1,4 +1,4 @@
-### Hi, I'm JoWiry! <img src=https://raw.githubusercontent.com/Vrushti24/Face-Mask-Detection/logo/Logo/facemaskdetection.ai%20%40%2051.06%25%20(CMYK_GPU%20Preview)%20%2018-02-2021%2018_33_18%20(2).png width=200px height=200>
+### Hi, I'm JoWiry! <img src=https://yandex.ru/images/search?pos=47&p=1&text=hello%20gif&img_url=http%3A%2F%2Fcdn.dribbble.com%2Fusers%2F751466%2Fscreenshots%2F3360272%2Fhello-3.gif&rpt=simage&lr=20728 width=200px height=200>
 
 
 #I'm a Tech Enthusiast💻
