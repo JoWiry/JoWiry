@@ -14,7 +14,7 @@
 
 ### 🙌🏻 Connect with Me
 
-- [Telegram](@JoWiry)
+- [Telegram](t.me/JoWiry)
 
 
 ### 💡 My Skills
@@ -40,4 +40,4 @@
 
 ### 🙌🏻 Connect with Me
 
-- [Telegram](@JoWiry)
+- [Telegram](t.me/JoWiry)
