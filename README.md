@@ -3,3 +3,41 @@
 
 ## I'm a Tech Enthusiast💻
 
+### Languages🈯
+* Python 
+* SQL
+
+### 📚 Projects 📚
+
+* Click [here]() to watch my projects
+
+
+### 🙌🏻 Connect with Me
+
+- [Telegram](@JoWiry)
+
+
+### 💡 My Skills
+
+* Data preparation, quality assurance, and analysis
+* Database design and modelling
+* Dashboard development and reporting
+* Exploratory data analysis
+
+- Soft skills:
+* Learning;
+* Communication skills;
+* Team player;
+* Management;
+
+### 🛠️ My Tools
+
+- Databases: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Excel
+- Python: NumPy, Pandas, Matplotlib/Seaborn/Plotly 
+- Skills: 
+    * Git
+    * Jupyter 
+
+### 🙌🏻 Connect with Me
+
+- [Telegram](@JoWiry)
