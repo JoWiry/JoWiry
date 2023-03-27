@@ -10,7 +10,7 @@
 ### 📚 Projects 📚
 
 * Click [here]() to watch my projects
-* [Project-1]https://github.com/JoWiry/Project-1
+* [Project-1](https://github.com/JoWiry/Project-1)
 
 
 ### 🙌🏻 Connect with Me
