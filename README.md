@@ -13,11 +13,9 @@
 * [Project-1](https://github.com/JoWiry/Project-1)
 
 
-### Connect with Me
+### Connect with Me - [Telegram](https://t.me/JoWiry)
 
 #### <img src=https://user-images.githubusercontent.com/71900299/228089283-107c633e-a78e-4d95-a7c5-62271a3b9b74.gif width=300px height=300>
-
-- [Telegram](https://t.me/JoWiry)
 
 
 ### 💡 My Skills
