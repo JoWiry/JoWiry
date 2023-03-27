@@ -1,6 +1,6 @@
 # Hello, I'm JoWiry! 
 <img src=https://user-images.githubusercontent.com/71900299/225784472-f1eb0af5-d847-47a2-8de1-39f5eb509140.gif  width=300px height=300> 
-<iframe src="https://giphy.com/embed/l0JMaNj0xZ6cDFLvq" width="480" height="283" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixels-eggs-paulrobertson-l0JMaNj0xZ6cDFLvq">via GIPHY</a></p>
+<img src=https://giphy.com/embed/l0JMaNj0xZ6cDFLvq width=480 height=283>
 ## I'm a Tech Enthusiast💻
 
 ### Languages🈯
