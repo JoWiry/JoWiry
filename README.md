@@ -11,6 +11,7 @@
 
 * Click [here]() to watch my projects
 * [Project-1](https://github.com/JoWiry/Project-1)
+* [Project_2](https://github.com/JoWiry/Project_2)
 
 
 ### Connect with Me [Telegram](https://t.me/JoWiry)
@@ -34,7 +35,7 @@
 
 ### 🛠️ My Tools
 
-- Databases: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Excel
+- Databases: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery)
 - Python: NumPy, Pandas, Matplotlib/Seaborn/Plotly 
 - Skills: 
     * Git
