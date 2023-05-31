@@ -12,7 +12,7 @@
 * Click [here]() to watch my projects
 * [Project-1](https://github.com/JoWiry/Project-1)
 * [Project_2](https://github.com/JoWiry/Project_2)
-
+* [Project_3](https://github.com/JoWiry/PROJECT-3_EDA-Feature_Engineering)
 
 ### Connect with Me [Telegram](https://t.me/JoWiry)
 
