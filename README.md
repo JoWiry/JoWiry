@@ -35,8 +35,8 @@
 
 ### 🛠️ My Tools
 
-- Databases: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery)
-- Python: NumPy, Pandas, Matplotlib/Seaborn/Plotly 
+- Databases: SQL (PostgreSQL, MySQL, SQL Server)
+- Python: NumPy, Pandas, Matplotlib/Seaborn/Plotly, Scikit-learn 
 - Skills: 
     * Git
     * Jupyter 
