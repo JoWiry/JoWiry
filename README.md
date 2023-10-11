@@ -14,6 +14,7 @@
 * [Project_2](https://github.com/JoWiry/Project_2)
 * [Project_3](https://github.com/JoWiry/PROJECT-3_EDA-Feature_Engineering)
 * [Project_4](https://github.com/JoWiry/Project_4_ML)
+* [Project_5](https://github.com/JoWiry/Project_5)
 ### Connect with Me [Telegram](https://t.me/JoWiry)
 
 #### <img src=https://user-images.githubusercontent.com/71900299/228089283-107c633e-a78e-4d95-a7c5-62271a3b9b74.gif width=300px height=300>
