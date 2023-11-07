@@ -2,7 +2,7 @@
 <img src=https://user-images.githubusercontent.com/71900299/225784472-f1eb0af5-d847-47a2-8de1-39f5eb509140.gif  width=300px height=300> 
 
 ## I'm a Tech Enthusiast💻
-
+https://github-profile-trophy.vercel.app/?username=JoWiry-ma&theme=radical
 ### Languages🈯
 * Python 
 * SQL
