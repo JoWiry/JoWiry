@@ -26,7 +26,6 @@
 
 * Data preparation, quality assurance, and analysis
 * Database design and modelling
-* Dashboard development and reporting
 * Exploratory data analysis
 
 - Soft skills:
@@ -38,7 +37,7 @@
 
 ### 🛠️ My Tools
 
-- Databases: SQL (PostgreSQL, MySQL, SQL Server)
+- Databases: SQL (PostgreSQL), SQLAlchemy
 - Python: NumPy, Pandas, Matplotlib/Seaborn/Plotly, Scikit-learn 
 - Skills: 
     * Git
