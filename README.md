@@ -9,7 +9,7 @@
 
 ### 📚 Projects 📚
 
-* Click [here]() to watch my projects
+* Click [here](:point_down:) to watch my projects
 * [Проект по предсказанию стоимости недвижимости](https://github.com/JoWiry/Final_project) + [Streamlit](https://house-predict-by-jowiry.streamlit.app/)
 * [Проект по временным рядам](https://github.com/JoWiry/Time_Series_project)
 * [Предсказание временных рядов криптовалюты Arbitrum(ARB)](https://github.com/JoWiry/Arbitrum_Crypto_Pred)
