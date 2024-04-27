@@ -16,6 +16,10 @@
 * [Project_4](https://github.com/JoWiry/Project_4_ML)
 * [Project_5](https://github.com/JoWiry/Project_5)
 * [Project_6](https://github.com/JoWiry/Project_6)
+
+### Pet-Projects
+* [Проект по предсказанию стоимости недвижимости](https://github.com/JoWiry/Final_project)
+  [Streamlit](https://house-predict-by-jowiry.streamlit.app/)
 * [Проект по временным рядам](https://github.com/JoWiry/Time_Series_project)
 * [Предсказание временных рядов криптовалюты Arbitrum(ARB)](https://github.com/JoWiry/Arbitrum_Crypto_Pred)
 ### Connect with Me [Telegram](https://t.me/JoWiry)
