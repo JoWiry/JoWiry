@@ -15,6 +15,8 @@
 * [Проект: Youtalk](https://jowiry.github.io/Youtalk/)
 * [TODO List on Typescript](https://github.com/JoWiry/TODO_List)
 * [Chat-WebSocket](https://jowiry.github.io/Chat-WebSocket/)
+
+  
 * [Проект по предсказанию стоимости недвижимости](https://github.com/JoWiry/Final_project) + [Streamlit](https://house-predict-by-jowiry.streamlit.app/)
 * [Проект по временным рядам](https://github.com/JoWiry/Time_Series_project)
 * [Предсказание временных рядов криптовалюты Arbitrum(ARB)](https://github.com/JoWiry/Arbitrum_Crypto_Pred)
