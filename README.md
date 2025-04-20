@@ -4,13 +4,17 @@
 ## I'm a Tech Enthusiast💻
 
 ### Languages🈯
-* Python 
+* JavaScript
 * SQL
 
 ### 📚 Projects 📚
 
 #### Click here 👇👇👇 to watch my projects
 * [Реакт Пицца](https://github.com/JoWiry/React-Pizza)
+* [Coffee_shop](https://jowiry.github.io/Coffee_shop/)
+* [Проект: Youtalk](https://jowiry.github.io/Youtalk/)
+* [TODO List on Typescript](https://github.com/JoWiry/TODO_List)
+* [Chat-WebSocket](https://jowiry.github.io/Chat-WebSocket/)
 * [Проект по предсказанию стоимости недвижимости](https://github.com/JoWiry/Final_project) + [Streamlit](https://house-predict-by-jowiry.streamlit.app/)
 * [Проект по временным рядам](https://github.com/JoWiry/Time_Series_project)
 * [Предсказание временных рядов криптовалюты Arbitrum(ARB)](https://github.com/JoWiry/Arbitrum_Crypto_Pred)
@@ -29,10 +33,6 @@
 
 ### 💡 My Skills
 
-* Data preparation, quality assurance, and analysis
-* Database design and modelling
-* Exploratory data analysis
-
 - Soft skills:
 * Learning;
 * Communication skills;
@@ -42,11 +42,10 @@
 
 ### 🛠️ My Tools
 
-- Databases: SQL (PostgreSQL), SQLAlchemy
-- Python: NumPy, Pandas, Matplotlib/Seaborn/Plotly, Scikit-learn
+- Databases: SQL (PostgreSQL)
+- JavaScript
 - Skills: 
     * Git
-    * Jupyter
     * Docker
 
 ### 🙌🏻 Connect with Me
